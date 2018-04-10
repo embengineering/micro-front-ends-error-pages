@@ -1,12 +1,7 @@
-// styles
 import './index.css';
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Page from './Page';
-import registerServiceWorker from './registerServiceWorker';
-
-registerServiceWorker();
 
 class ErrorPage extends HTMLElement {
   get title() {
