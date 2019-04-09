@@ -1,5 +1,6 @@
 {
   "name": "micro-front-ends-error-pages",
+  "description": "Simple 404 Not Found error page using a web component and a React component",
   "version": "0.1.0",
   "private": true,
   "homepage": "http://embengineering.com/micro-front-ends-error-pages",
